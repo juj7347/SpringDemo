@@ -12,4 +12,9 @@ public class RehabCoach implements Coach {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	@Override
+	public String getRandomFortune() {
+		return null;
+	}
 }

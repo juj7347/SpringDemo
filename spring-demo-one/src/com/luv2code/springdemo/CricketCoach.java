@@ -58,5 +58,10 @@ public class CricketCoach implements Coach {
 	public String getDailyFortune() {
 		return fortuneService.getFortune();
 	}
+	
+	@Override
+	public String getRandomFortune() {
+		return fortuneService.randomFortune();
+	}
 
 }
