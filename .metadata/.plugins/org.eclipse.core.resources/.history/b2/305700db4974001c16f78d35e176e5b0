@@ -1,0 +1,14 @@
+package com.luv2code.springdemo;
+
+public class HappyFortuneService implements FortuneService {
+
+	String[] fortune = {"boo", "trash", "loser"};
+	@Override
+	public String getFortune() {
+		return "Today is your lucky day!";
+	}
+	
+	public String randomFortune() {
+		return fortune[1];
+	}
+}
