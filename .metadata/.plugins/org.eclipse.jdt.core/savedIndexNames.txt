@@ -6,7 +6,6 @@ INDEX VERSION 1.131+C:\Users\yunja\eclipse-workspace\.metadata\.plugins\org.ecli
 3925490168.index
 4278147810.index
 2260116983.index
-678282196.index
 2333419045.index
 1644071709.index
 3817951837.index
