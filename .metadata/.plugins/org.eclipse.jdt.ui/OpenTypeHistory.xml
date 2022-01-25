@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=spring-demo-one/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1642061898922"/>
-    <typeInfo handle="=spring-demo-one/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1642062082253"/>
-    <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1642569846092"/>
-    <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1642569930979"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
