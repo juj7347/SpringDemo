@@ -30,3 +30,6 @@
 2022-01-25 22:26:27,552 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a2ce559{/wse,null,AVAILABLE}
 2022-01-25 22:26:27,572 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2c12b0e7{HTTP/1.1, (http/1.1)}{0.0.0.0:64249}
 2022-01-25 22:26:27,581 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4db65a1d{STARTING}[10.0.6,sto=0] @27312292ms
+2022-01-26 01:32:30,463 [Framework stop - Equinox Container: ce8a6f6a-723f-4876-81a1-4af294b611f5] INFO  org.eclipse.jetty.server.Server - Stopped Server@4db65a1d{STOPPING}[10.0.6,sto=0]
+2022-01-26 01:32:30,467 [Framework stop - Equinox Container: ce8a6f6a-723f-4876-81a1-4af294b611f5] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2c12b0e7{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-01-26 01:32:30,529 [Framework stop - Equinox Container: ce8a6f6a-723f-4876-81a1-4af294b611f5] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6a2ce559{/wse,null,STOPPED}
